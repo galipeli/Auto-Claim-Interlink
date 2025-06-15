@@ -9,25 +9,14 @@ Script otomatis untuk klaim poin setiap 4 jam sekali di platform Interlink, mend
 
 ## ⚙️ Cara Penggunaan
 
-1. Clone repositori:
-\`\`\`bash
-git clone https://github.com/galipeli/Auto-Claim-Interlink.git
-\`\`\`
+1. Clone repositori: git clone https://github.com/galipeli/Auto-Claim-Interlink.git
 
-2. Masuk ke direktori project:
-\`\`\`bash
-cd Auto-Claim-Interlink
-\`\`\`
+2. Masuk ke direktori project: cd Auto-Claim-Interlink
 
-3. Buat dan isi file \`.env\` dengan format berikut:
-\`\`\`
-ACCOUNT=akun1,akun2,akun3
-\`\`\`
+3. Buat dan isi file .env dengan format berikut: ACCOUNT=akun1,akun2,akun3
 
-4. Jalankan script:
-\`\`\`bash
-python main.py
-\`\`\`
+
+4. Jalankan script: python main.py
 
 ## 📝 Belum Punya Akun?
 
