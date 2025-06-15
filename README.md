@@ -1,4 +1,3 @@
-cat > README.md <<EOF
 # Auto Claim Interlink
 
 Script otomatis untuk klaim poin setiap 4 jam sekali di platform Interlink, mendukung multi-akun.
@@ -34,5 +33,5 @@ python main.py
 
 Silakan daftar melalui link referensi berikut agar bisa langsung digunakan:
 
-> **Kode Referensi:** \`11121999\`
-EOF
+> **Kode Referensi:** 11121999
+
